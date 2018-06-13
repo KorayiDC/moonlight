@@ -2,7 +2,11 @@
 beautiful gradientcolor view
 
 Spotlight, uh, moonlight, uh
+
+
 N**, why you trippin'? Get your mood right, uh
+
+
 Shawty look good in the moonlight
 All these pussy niggas so bad mind
 Spotlight, moonlight
