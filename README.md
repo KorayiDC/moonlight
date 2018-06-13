@@ -4,9 +4,7 @@
 
 
 
-
-!(image)[https://imgur.com/a/85ftOWS]
-![Imgur Image](https://imgur.com/a/85ftOWS)
+[Imgur](https://i.imgur.com/gag6h2i.png)
 
 
 Spotlight, uh, moonlight, uh
