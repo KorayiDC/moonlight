@@ -2,7 +2,7 @@
 **beautiful gradientcolor view**
 
 
-https://www.youtube.com/watch?v=jO6kzetYo0A
+
 
 
 
@@ -48,3 +48,6 @@ All these pussy n** so bad mind
 
 
 **moonlight - xxxtentacion.**
+
+
+**https://www.youtube.com/watch?v=jO6kzetYo0A**
