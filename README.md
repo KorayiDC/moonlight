@@ -1,5 +1,5 @@
 # moonlight
-** beautiful gradientcolor view **
+**beautiful gradientcolor view **
 
 Spotlight, uh, moonlight, uh
 
