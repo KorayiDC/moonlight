@@ -36,8 +36,8 @@ class ViewController: UIViewController {
     
     @IBAction func changes(_ sender: Any) {
         
-        let lavalamp = Int(arc4random_uniform(6) + 1)
-        if lavalamp > 3 {
+        let lavalamp = Int(arc4random_uniform(3) + 1)
+        if lavalamp > 2 {
             
            print(lavalamp)
             changes2()
