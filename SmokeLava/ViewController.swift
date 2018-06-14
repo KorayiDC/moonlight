@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
     
+
+     
  
     
      var toggled = true
@@ -34,7 +36,18 @@ class ViewController: UIViewController {
     
     @IBAction func changes(_ sender: Any) {
         
-        changes()
+        let lavalamp = Int(arc4random_uniform(6) + 1)
+        if lavalamp > 3 {
+            
+           print(lavalamp)
+            changes2()
+        } else {
+            print(lavalamp)
+            changes()
+        }
+        
+        
+        
     }
     
     
@@ -46,11 +59,9 @@ class ViewController: UIViewController {
        seventeen()
       lava.layer.addSublayer(smoke)
        
-        let lavalamp = Int(arc4random_uniform(6) + 1)
-        print(lavalamp)
-      
-
         
+      
+      
 
     }
     
@@ -87,5 +98,14 @@ class ViewController: UIViewController {
 
     
 
+    func changes2(){
+        let topColor = UIColor(red: 0.8039, green: 0.298, blue: 0.9725, alpha: 1.0).cgColor
+        let bottomColor = UIColor(red: 0.6941, green: 0.8235, blue: 0.9882, alpha: 1.0).cgColor
+        smoke.frame = view.bounds
+        smoke.colors = [topColor, bottomColor]
+    }
+
+   
+    
 }
 
